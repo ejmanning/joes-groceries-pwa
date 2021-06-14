@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/joes-groceries-pwa/static/css/main.0e148757.chunk.css",
+    "main.js": "/joes-groceries-pwa/static/js/main.05dfe102.chunk.js",
+    "main.js.map": "/joes-groceries-pwa/static/js/main.05dfe102.chunk.js.map",
+    "runtime-main.js": "/joes-groceries-pwa/static/js/runtime-main.a2cf3258.js",
+    "runtime-main.js.map": "/joes-groceries-pwa/static/js/runtime-main.a2cf3258.js.map",
+    "static/js/2.f09a4c91.chunk.js": "/joes-groceries-pwa/static/js/2.f09a4c91.chunk.js",
+    "static/js/2.f09a4c91.chunk.js.map": "/joes-groceries-pwa/static/js/2.f09a4c91.chunk.js.map",
+    "static/js/3.90802f12.chunk.js": "/joes-groceries-pwa/static/js/3.90802f12.chunk.js",
+    "static/js/3.90802f12.chunk.js.map": "/joes-groceries-pwa/static/js/3.90802f12.chunk.js.map",
+    "index.html": "/joes-groceries-pwa/index.html",
+    "service-worker.js": "/joes-groceries-pwa/service-worker.js",
+    "service-worker.js.map": "/joes-groceries-pwa/service-worker.js.map",
+    "static/css/main.0e148757.chunk.css.map": "/joes-groceries-pwa/static/css/main.0e148757.chunk.css.map",
+    "static/js/2.f09a4c91.chunk.js.LICENSE.txt": "/joes-groceries-pwa/static/js/2.f09a4c91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2cf3258.js",
+    "static/js/2.f09a4c91.chunk.js",
+    "static/css/main.0e148757.chunk.css",
+    "static/js/main.05dfe102.chunk.js"
+  ]
+}
